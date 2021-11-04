@@ -51,7 +51,7 @@ export default function Home() {
               Somaliland has a long history that goes back thousands of years.
               10,000 year old Neolithic paintings in Las Geel, near Hargeisa,
               the capital, show that Somaliland was home to the earliest
-              civilizations in the world.
+              civilizations in the world..
             </Text>
             <Text>
               Somaliland, as part of the Land of Punt was a major trading
